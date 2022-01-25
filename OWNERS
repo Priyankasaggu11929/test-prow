@@ -1,0 +1,6 @@
+filters:
+  ".*":
+    reviewers:
+      - Priyankasaggu11929
+    approvers:
+      - Priyankasaggu11929
