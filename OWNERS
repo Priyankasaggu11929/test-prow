@@ -2,5 +2,7 @@ filters:
   ".*":
     reviewers:
       - Priyankasaggu11929
+      - jasonbraganza
     approvers:
       - Priyankasaggu11929
+      - jasonbraganza
